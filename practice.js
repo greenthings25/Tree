@@ -5,6 +5,6 @@ console.log(n);
 {
 let b=6;
 console.log(b);
-const n=55;
+const n=66;
 console.log(n);
 }
